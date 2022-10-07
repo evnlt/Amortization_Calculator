@@ -1,0 +1,10 @@
+C:\Users\Иван\source\repos\LoanCalculator\AmortizationLoanCalculator\bin\Debug\netstandard2.0\AmortizationLoanCalculator.deps.json
+C:\Users\Иван\source\repos\LoanCalculator\AmortizationLoanCalculator\bin\Debug\netstandard2.0\AmortizationLoanCalculator.dll
+C:\Users\Иван\source\repos\LoanCalculator\AmortizationLoanCalculator\bin\Debug\netstandard2.0\AmortizationLoanCalculator.pdb
+C:\Users\Иван\source\repos\LoanCalculator\AmortizationLoanCalculator\obj\Debug\netstandard2.0\AmortizationLoanCalculator.csproj.AssemblyReference.cache
+C:\Users\Иван\source\repos\LoanCalculator\AmortizationLoanCalculator\obj\Debug\netstandard2.0\AmortizationLoanCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\source\repos\LoanCalculator\AmortizationLoanCalculator\obj\Debug\netstandard2.0\AmortizationLoanCalculator.AssemblyInfoInputs.cache
+C:\Users\Иван\source\repos\LoanCalculator\AmortizationLoanCalculator\obj\Debug\netstandard2.0\AmortizationLoanCalculator.AssemblyInfo.cs
+C:\Users\Иван\source\repos\LoanCalculator\AmortizationLoanCalculator\obj\Debug\netstandard2.0\AmortizationLoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\LoanCalculator\AmortizationLoanCalculator\obj\Debug\netstandard2.0\AmortizationLoanCalculator.dll
+C:\Users\Иван\source\repos\LoanCalculator\AmortizationLoanCalculator\obj\Debug\netstandard2.0\AmortizationLoanCalculator.pdb
